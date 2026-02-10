@@ -1,5 +1,4 @@
 ## Hi there 👋
-# harshitdave
 <h1>About me</h1>
  Hi there, I'm Harshit Dave 👋
 
