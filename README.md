@@ -1,69 +1,129 @@
-## Hi there 👋
-<h1>About me</h1>
- Hi there, I'm Harshit Dave 👋
+<!-- =========================
+      HEADER BANNER
+========================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7F00FF,100:00D4FF&section=header" />
 
-I'm an AI/ML undergraduate with a passion for building intelligent systems that bridge the gap between humans and machines. Currently pursuing my Bachelor's in Artificial Intelligence and Machine Learning, I specialize in Artificial Intelligence, Web Development & Cybersecurity. Skilled in Python, C/C++, SQL & Generative AI.
+<!-- =========================
+      TYPING INTRO
+========================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Harshit+Dave;AI%2FML+Developer;Python+%7C+Machine+Learning+%7C+AI+Agents;Building+Intelligent+Automation+Systems" />
+</div>
 
-<h2>What I'm Working On</h2>
+<!-- =========================
+      PROFILE VIEWS
+========================= -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitdave2&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
 
-🤖 **Co-Founder @ Genesis AI** - Building the next generation of human-like AI systems
+<br/>
 
-<h2>🧠 Research Interests:</h2>
-- Human-Machine Interaction
-- Natural Language Processing
-- Machine Learning & Deep Learning
-- Creating AI systems with human-like reasoning capabilities
+<!-- =========================
+      ABOUT ME
+========================= -->
+# 💫 About Me
 
-<h3> My Vision</h3>
-I believe the future of AI lies in creating systems that think, learn, and interact in ways that feel natural to humans. My work with Genesis AI reflects this vision—pushing the boundaries of what's possible when technology meets human intuition.
+Hey, I’m **Harshit Dave** 👋  
+I’m a **BTech CSE (AI & ML)** student and an **AI/ML Developer** focused on building intelligent, practical, and automation-driven solutions with Python.
 
-
-<h3>Currently Learning</h3>
-
--Advanced Machine Learning architectures
--Large Language Models (LLMs)
--Neural networks and deep learning frameworks
--AI ethics and responsible AI development
--Cybersecurity best practices
-
-<h3>Let's Connect</h3>
-
-I'm always excited to collaborate on innovative AI projects or discuss the future of intelligent systems. Feel free to explore my repositories and reach out!
+My work is centered around turning ideas into usable AI systems — from machine learning models and NLP workflows to custom AI agents that help automate real-world tasks. I enjoy creating technology that feels useful, efficient, and thoughtfully designed.
 
 ---
 
-💡 *"The best AI is the one that makes you forget you're talking to a machine."*
- [LinkedIn](https://github.com/linkedin)
+## ⚡ What I’m Focused On
+- 🤖 Custom AI Agents & Automation Systems  
+- 🧠 Machine Learning & Deep Learning Applications  
+- 💬 NLP & Generative AI Solutions  
+- 👁️ Computer Vision Projects  
+- ⚙️ Python-Based Productivity Tools  
 
+---
 
-<h2>🛠Tech Stack</h2>
+## 🌱 Currently Exploring
+- Large Language Models (LLMs)  
+- AI Agent Architectures  
+- MLOps & Scalable AI Systems  
+- Advanced Deep Learning  
+- Intelligent Workflow Automation  
 
-<!-- Programming Languages -->
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+---
 
-<!-- Web & Frontend -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠 Tech Stack
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sqlite,mysql,git,github,vscode,tensorflow,pytorch,opencv,sklearn,numpy,pandas" />
 
+</div>
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-📫Connect with me:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitdave2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdave2&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/harshit-dave29/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:daveharshit787@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/hrs.itsdway/)
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdave2&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitdave2&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="left">
+
+### 🤖 AI Automation Agent
+A custom AI agent built to automate tasks and improve workflow efficiency using Python and modern AI tools.
+
+### 🧠 NLP / Machine Learning Project
+A practical ML or NLP application focused on solving a real-world text or prediction problem.
+
+### 👁️ Computer Vision Project
+An OpenCV-based project for image or video analysis with intelligent processing.
+
+</div>
+
+<!-- Replace the titles above with your actual best repositories and links -->
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-dave29)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daveharshit787@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrs.itsdway)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@HarshitDave)
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harshitdave2/harshitdave2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- 
+To make the snake animation work, add the GitHub Action from Platane/snk
+and ensure it generates the output SVG in your profile repo.
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4FF,100:7F00FF&section=footer" />
