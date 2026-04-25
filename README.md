@@ -115,10 +115,12 @@ An OpenCV-based project for image or video analysis with intelligent processing.
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshitdave2/harshitdave2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/harshitdave2/harshitdave2/output/pacman-contribution-graph-dark.svg" />
+
 </div>
 
 <!-- 
