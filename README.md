@@ -123,9 +123,5 @@ An OpenCV-based project for image or video analysis with intelligent processing.
 
 </div>
 
-<!-- 
-To make the snake animation work, add the GitHub Action from Platane/snk
-and ensure it generates the output SVG in your profile repo.
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4FF,100:7F00FF&section=footer" />
