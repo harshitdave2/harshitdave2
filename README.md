@@ -63,17 +63,19 @@ My work is centered around turning ideas into usable AI systems — from machine
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitdave2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdave2&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitdave2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitdave2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdave2&theme=tokyonight&hide_border=true" />
-</div>
 
+<img src="https://streak-stats.demolab.com?user=harshitdave2&theme=tokyonight&hide_border=true"/>
+
+</div>
 ---
 
 ## 📈 Contribution Graph
