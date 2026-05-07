@@ -115,11 +115,11 @@ An OpenCV-based project for image or video analysis with intelligent processing.
 
 ---
 
-## 🎮 Contribution Graph
+## 👾 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harshitdave2/harshitdave2/output/pacman-contribution-graph-dark.svg" />
+<img src="https://harshitdave2.github.io/harshitdave2/pacman-contribution-graph-dark.svg">
 
 </div>
 
